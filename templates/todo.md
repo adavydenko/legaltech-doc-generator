@@ -6,10 +6,12 @@
 ## How to sync VS Code settings
 https://www.vgemba.net/microsoft/Sync-Visual-Studio-Code-Settings/
 
+
 ## vue-js dynamic components
 https://www.youtube.com/watch?v=i_SAU9zyLT8
-https://vuejs.org/v2/guide/components-slots.html
+(components-slots) https://vuejs.org/v2/guide/components-slots.html
 https://www.youtube.com/watch?v=we4zuQIXmnw
+
 
 ## SAM pattern
 http://sam.js.org/
@@ -23,9 +25,9 @@ https://github.com/msolovyov/sam-vuejs-rocket
    - [https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml]
    - intro to YAML [http://sweetohm.net/article/introduction-yaml.en.html]
    - [https://learn.getgrav.org/advanced/yaml]
- - generate docx + data [https://www.npmjs.com/package/generate-docx] //!!!!!!!!!!!
-   - [https://www.npmjs.com/package/docx-templates]
-   - [https://www.npmjs.com/package/docxtemplater]
+ - generate docx + data [https://www.npmjs.com/package/generate-docx] //!!!!!!!!!!! -> use it as a starter // CAN'T work with nested objects
+   - [https://www.npmjs.com/package/docx-templates] -> too complex syntax with +++= .. +++, contain ALIAS commands & can use javascript functions, e.g. array.join(', ') etc.
+   - [https://www.npmjs.com/package/docxtemplater] // has paid modules
    - DOCx templates [https://www.npmjs.com/package/docx-template]
  - docx 
     - [https://www.npmjs.com/package/docx]
