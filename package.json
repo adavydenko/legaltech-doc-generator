@@ -9,7 +9,9 @@
   "author": "adavydenko",
   "license": "MIT",
   "dependencies": {
-    "generate-docx": "^2.1.0",
-    "js-yaml": "^3.12.1"
+    "angular-expressions": "^1.0.0",
+    "docxtemplater": "^3.9.6",
+    "js-yaml": "^3.12.1",
+    "jszip": "^2.6.1"
   }
 }
